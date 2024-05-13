@@ -7,4 +7,4 @@ app.get('/', (req, res)=> {
     res.send('hello world');
 })
 
-app.listen(3000, console.log('server started at port: 3000'));
+app.listen(9999, console.log('server started at port: 9999'));
